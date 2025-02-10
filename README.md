@@ -42,7 +42,6 @@ Um site moderno e responsivo para uma cafeteria fictícia. Ele exibe informaçõ
 ---
 
 ## 🌟 **Destaques do Portfólio**
-- Tema claro/escuro com alternância interativa.
 - Design responsivo, garantindo compatibilidade em desktops, tablets e smartphones.
 - Links diretos para meus perfis do [GitHub](https://github.com/MarcosInCode) e [Instagram](https://www.instagram.com/marcos_8s/).
 
