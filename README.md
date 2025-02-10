@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre mim, minhas habilidades e alguns projetos que desenvolvi para demonstrar meu aprendizado e criatividade como desenvolvedor Full Stack.
 
-Este portfólio inclui **3 projetos principais** que mostram minha experiência em **JavaScript, HTML, CSS e Python**. Além disso, ele foi projetado para ser **responsivo** e interativo, com um tema claro/escuro implementado.
+Este portfólio inclui **alguns projetos** que mostram minha experiência em **JavaScript, HTML, CSS e Python**. Além disso, ele foi projetado para ser **responsivo** e interativo.
 
 ---
 
